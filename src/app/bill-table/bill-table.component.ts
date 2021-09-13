@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-bill-table',
+  selector: 'bill-table',
   templateUrl: './bill-table.component.html',
   styleUrls: ['./bill-table.component.scss']
 })
